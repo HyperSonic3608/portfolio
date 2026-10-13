@@ -1,0 +1,21 @@
+{
+  "displayOrder": [
+    "manual:UniVacinas",
+    "github:personal:Pindorama",
+    "github:organization:TrabalhoFinalIntroAlgs",
+    "github:organization:DonkeyKongGameLP1",
+    "github:organization:LojaCDsSiteWEB2",
+    "github:personal:site_apresentacao_WEB"
+  ],
+  "projects": [
+    {
+      "name": "UniVacinas",
+      "description": "Plataforma que facilita o agendamento, o acompanhamento e a divulgação de campanhas de vacinação.",
+      "url": "https://univacinas-hpwh.onrender.com/",
+      "homepage": "https://univacinas-hpwh.onrender.com/",
+      "image": "../../public/univacinas.jpg",
+      "language": "JavaScript",
+      "topics": []
+    }
+  ]
+}
